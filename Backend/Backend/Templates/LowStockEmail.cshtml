@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Cảnh báo tồn kho thấp</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; font-size: 14px; color: #333; }
+        h2 { color: #d32f2f; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { padding: 8px; border: 1px solid #ccc; text-align: left; }
+        th { background-color: #f8d7da; }
+        .footer { margin-top: 30px; font-size: 13px; color: #555; }
+    </style>
+</head>
+<body>
+    <h2>Cảnh báo: Sản phẩm hết hàng hoặc tồn kho dưới ngưỡng</h2>
+    <p>Xin chào Admin,</p>
+    <p>Hệ thống phát hiện các sản phẩm dưới đây đã hết hàng hoặc gần hết hàng:</p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Tên sách</th>
+                <th>ISBN</th>
+                <th>Số lượng tồn kho hiện tại</th>
+                <th>Ngưỡng cảnh báo</th>
+            </tr>
+        </thead>
+        <tbody>
+            {LowStockRows}
+        </tbody>
+    </table>
+
+    <div class="footer">
+        Email này được gửi tự động từ hệ thống. Vui lòng kiểm tra và nhập hàng sớm để tránh gián đoạn.
+        <br><br>
+        Trân trọng,<br>
+        <strong>Hệ thống quản lý kho sách</strong>
+    </div>
+</body>
+</html>

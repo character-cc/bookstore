@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <title>Thông báo đơn hàng mới</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        .wrapper {
+            max-width: 600px;
+            margin: auto;
+            background-color: #fff;
+            padding: 24px;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+        }
+
+        h2 {
+            color: #333;
+            text-align: center;
+        }
+
+        .section {
+            margin-bottom: 20px;
+            font-size: 14px;
+            color: #333;
+        }
+
+        .order-info {
+            margin-top: 12px;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+            .order-info strong {
+                display: inline-block;
+                width: 140px;
+            }
+
+        .items-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 12px;
+        }
+
+            .items-table th, .items-table td {
+                border: 1px solid #ddd;
+                padding: 8px;
+            }
+
+            .items-table th {
+                background-color: #f2f2f2;
+                text-align: left;
+            }
+
+        .summary {
+            margin-top: 16px;
+            font-weight: bold;
+        }
+
+        .cta {
+            margin-top: 24px;
+            text-align: center;
+        }
+
+            .cta a {
+                background-color: #28a745;
+                color: #fff;
+                padding: 12px 24px;
+                text-decoration: none;
+                border-radius: 6px;
+                display: inline-block;
+            }
+
+        .footer {
+            margin-top: 32px;
+            font-size: 12px;
+            text-align: center;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <h2>📦 Đơn hàng mới vừa được tạo</h2>
+
+        <div class="section">
+            Một khách hàng vừa đặt hàng thành công. Vui lòng kiểm tra để xử lý đơn hàng sớm nhất có thể.
+        </div>
+
+        <div class="order-info">
+            <p><strong>Mã giao dịch:</strong> {{TransactionId}}</p>
+            <p><strong>Khách hàng:</strong> {{CustomerName}} , {{CustomerPhone}}</p>
+            <p><strong>Địa chỉ giao hàng:</strong> {{ShippingAddress}}</p>
+            <p><strong>Thời gian đặt:</strong> {{CreatedAt}}</p>
+            <p><strong>Trạng thái:</strong> Đang xử lý</p>
+        </div>
+
+        <div class="section">
+            <strong>Danh sách sản phẩm:</strong>
+            <table class="items-table">
+                <thead>
+                    <tr>
+                        <th>Tên sản phẩm</th>
+                        <th>Số lượng</th>
+                        <th>Đơn giá</th>
+                        <th>Thành tiền</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{OrderItems}}
+                </tbody>
+            </table>
+
+            <div class="summary">
+                Phí vận chuyển: {{ShippingFee}}₫<br />
+                Giảm giá: -{{DiscountAmount}}₫<br />
+                <strong>Tổng thanh toán: {{TotalAmount}}₫</strong>
+            </div>
+        </div>
+
+        <div class="cta">
+            <a href="{{AdminOrderUrl}}">Xem chi tiết đơn hàng</a>
+        </div>
+
+        <div class="footer">
+            Hệ thống tự động gửi từ BookStore Admin. Không trả lời email này.
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <title>Mã giảm giá dành riêng cho bạn</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f6f6f6;
+            padding: 20px;
+        }
+
+        .wrapper {
+            max-width: 600px;
+            margin: auto;
+            background: #ffffff;
+            padding: 24px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+
+        h2 {
+            color: #2d2d2d;
+            text-align: center;
+        }
+
+        .code {
+            background: #fff3cd;
+            border: 1px dashed #ffc107;
+            padding: 16px;
+            font-size: 22px;
+            font-weight: bold;
+            text-align: center;
+            color: #b8860b;
+            margin: 24px 0;
+        }
+
+        .details {
+            font-size: 14px;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .cta {
+            text-align: center;
+            margin-top: 24px;
+        }
+
+            .cta a {
+                background-color: #007bff;
+                color: white;
+                padding: 12px 24px;
+                border-radius: 6px;
+                text-decoration: none;
+                font-weight: bold;
+            }
+
+        .footer {
+            margin-top: 40px;
+            font-size: 12px;
+            color: #888;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <h2>Mã giảm giá dành riêng cho bạn!</h2>
+
+        <p class="details">
+            Chúng tôi gửi đến bạn một mã giảm giá đặc biệt. Đừng bỏ lỡ cơ hội tiết kiệm cho đơn hàng tiếp theo!
+        </p>
+
+        <div class="code">{{Code}}</div>
+
+        <div class="details">
+            Ưu đãi: <strong>{{DiscountText}}</strong><br />
+            Đơn hàng tối thiểu: <strong>{{MinimumOrderAmount}}₫</strong><br />
+            Áp dụng từ <strong>{{StartDate}}</strong> đến <strong>{{EndDate}}</strong><br />
+            Số lượt sử dụng tối đa: <strong>{{MaxUsagePerUser}}</strong> lần/người
+        </div>
+
+        <div class="cta">
+            <a href="{{ShopUrl}}">Mua ngay</a>
+        </div>
+
+        <div class="footer">
+            &copy; 2025 BookStore. Nếu bạn không muốn nhận email, vui lòng cập nhật trong tài khoản của mình.
+        </div>
+    </div>
+</body>
+</html>

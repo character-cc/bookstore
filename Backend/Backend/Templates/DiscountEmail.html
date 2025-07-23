@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <title>Mã giảm giá độc quyền cho bạn</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f6f6f6;
+            padding: 20px;
+        }
+
+        .email-wrapper {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 24px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+
+        h2 {
+            color: #2d2d2d;
+            text-align: center;
+        }
+
+        .discount-code {
+            background-color: #fff3cd;
+            border: 1px dashed #ffcc00;
+            padding: 16px;
+            font-size: 20px;
+            text-align: center;
+            font-weight: bold;
+            color: #b8860b;
+            margin: 24px 0;
+        }
+
+        .details {
+            font-size: 14px;
+            color: #444;
+            line-height: 1.6;
+        }
+
+        .cta {
+            text-align: center;
+            margin-top: 24px;
+        }
+
+            .cta a {
+                background-color: #007bff;
+                color: #ffffff;
+                padding: 12px 20px;
+                text-decoration: none;
+                border-radius: 5px;
+                display: inline-block;
+                font-weight: bold;
+            }
+
+        .footer {
+            font-size: 12px;
+            color: #888;
+            margin-top: 40px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="email-wrapper">
+        <h2> Mã giảm giá dành riêng cho bạn!</h2>
+
+        <p class="details">
+            Chúng tôi gửi đến bạn một mã giảm giá đặc biệt. Đừng bỏ lỡ cơ hội tiết kiệm cho đơn hàng tiếp theo!
+        </p>
+
+        <div class="discount-code">@Model.Code</div>
+
+        <div class="details">
+            @if (Model.IsPercentage)
+            {
+            <p>Ưu đãi: Giảm <strong>@Model.DiscountPercentage%</strong></p>
+            @if (Model.MaxDiscountAmount.HasValue)
+            {
+            <p>Tối đa: <strong>@Model.MaxDiscountAmount.Value.ToString("N0")₫</strong></p>
+            }
+            }
+            else
+            {
+            <p>Ưu đãi: Giảm trực tiếp <strong>@Model.DiscountAmount.ToString("N0")₫</strong></p>
+            }
+
+            <p>Đơn hàng tối thiểu: <strong>@Model.MinimumOrderAmount.ToString("N0")₫</strong></p>
+            <p>Áp dụng từ <strong>@Model.StartDate:dd/MM/yyyy</strong> đến <strong>@Model.EndDate:dd/MM/yyyy</strong></p>
+            <p>Số lượt sử dụng tối đa: <strong>@Model.MaxUsagePerUser</strong> lần/người</p>
+        </div>
+
+        <div class="cta">
+            <a href="@Model.ShopUrl">Mua sắm ngay</a>
+        </div>
+
+        <div class="footer">
+            Nếu bạn không muốn nhận thêm ưu đãi, hãy điều chỉnh cài đặt trong tài khoản.<br />
+            &copy; BookStore 2025
+        </div>
+    </div>
+</body>
+</html>
