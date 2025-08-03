@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\services\\scheduletasks\\taskstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\controllers\\scheduletaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\scheduletaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\controllers\\zalopaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\zalopaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\services\\scheduletasks\\itaskstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\services\\scheduletasks\\itaskstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +33,66 @@
     {
       "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\services\\scheduletasks\\ischeduletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\services\\scheduletasks\\ischeduletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\apperrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\apperrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\apperrortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\apperrortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\asynciqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\asynciqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\customclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\customclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\ipagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\ipagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\pagelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\pagelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\sortablefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\sortablefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\services\\authors\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\services\\authors\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\domain\\tasks\\scheduletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +106,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IScheduleTaskService.cs",
-              "DocumentMoniker": "F:\\DoAn\\backend\\Backend\\Services\\ScheduleTasks\\IScheduleTaskService.cs",
-              "RelativeDocumentMoniker": "Backend\\Services\\ScheduleTasks\\IScheduleTaskService.cs",
-              "ToolTip": "F:\\DoAn\\backend\\Backend\\Services\\ScheduleTasks\\IScheduleTaskService.cs",
-              "RelativeToolTip": "Backend\\Services\\ScheduleTasks\\IScheduleTaskService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T07:54:42.953Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -55,7 +118,293 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\StoreController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:27:50.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZaloPayController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Controllers\\ZaloPayController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\ZaloPayController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Controllers\\ZaloPayController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\ZaloPayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:27:49.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:05:36.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScheduleTaskController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Controllers\\ScheduleTaskController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\ScheduleTaskController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Controllers\\ScheduleTaskController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\ScheduleTaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:04:45.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IScheduleTaskService.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Services\\ScheduleTasks\\IScheduleTaskService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\ScheduleTasks\\IScheduleTaskService.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Services\\ScheduleTasks\\IScheduleTaskService.cs",
+              "RelativeToolTip": "Backend\\Services\\ScheduleTasks\\IScheduleTaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:54:42.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskStartup.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Services\\ScheduleTasks\\TaskStartup.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\ScheduleTasks\\TaskStartup.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Services\\ScheduleTasks\\TaskStartup.cs",
+              "RelativeToolTip": "Backend\\Services\\ScheduleTasks\\TaskStartup.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAIA8wDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:33:37.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IScheduleTask.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Services\\ScheduleTasks\\IScheduleTask.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\ScheduleTasks\\IScheduleTask.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Services\\ScheduleTasks\\IScheduleTask.cs",
+              "RelativeToolTip": "Backend\\Services\\ScheduleTasks\\IScheduleTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:29:28.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaskStartup.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Services\\ScheduleTasks\\ITaskStartup.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\ScheduleTasks\\ITaskStartup.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Services\\ScheduleTasks\\ITaskStartup.cs",
+              "RelativeToolTip": "Backend\\Services\\ScheduleTasks\\ITaskStartup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:31:43.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\OrderController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:17:49.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:17:50.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\AdminController.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\AdminController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\AdminController.cs",
+              "RelativeToolTip": "Backend\\Common\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:43:21.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppErrorResponse.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\AppErrorResponse.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\AppErrorResponse.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\AppErrorResponse.cs",
+              "RelativeToolTip": "Backend\\Common\\AppErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:43:21.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\CommonController.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\CommonController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\CommonController.cs",
+              "RelativeToolTip": "Backend\\Common\\CommonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:43:26.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppErrorType.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\AppErrorType.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\AppErrorType.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\AppErrorType.cs",
+              "RelativeToolTip": "Backend\\Common\\AppErrorType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:43:22.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AsyncIQueryableExtensions.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\AsyncIQueryableExtensions.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\AsyncIQueryableExtensions.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\AsyncIQueryableExtensions.cs",
+              "RelativeToolTip": "Backend\\Common\\AsyncIQueryableExtensions.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:43:23.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomClaimTypes.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\CustomClaimTypes.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\CustomClaimTypes.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\CustomClaimTypes.cs",
+              "RelativeToolTip": "Backend\\Common\\CustomClaimTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:43:27.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnumHelper.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\EnumHelper.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\EnumHelper.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\EnumHelper.cs",
+              "RelativeToolTip": "Backend\\Common\\EnumHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:43:28.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPagedList.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\IPagedList.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\IPagedList.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\IPagedList.cs",
+              "RelativeToolTip": "Backend\\Common\\IPagedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:43:31.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PageList.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\PageList.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\PageList.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\PageList.cs",
+              "RelativeToolTip": "Backend\\Common\\PageList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:43:31.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PublicController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\PublicController.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\PublicController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\PublicController.cs",
+              "RelativeToolTip": "Backend\\Common\\PublicController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:43:32.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SortableFields.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\SortableFields.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\SortableFields.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\SortableFields.cs",
+              "RelativeToolTip": "Backend\\Common\\SortableFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:43:33.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Services\\Authors\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Authors\\IAuthorService.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Services\\Authors\\IAuthorService.cs",
+              "RelativeToolTip": "Backend\\Services\\Authors\\IAuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:42:04.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-29T15:57:40.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "ScheduleTask.cs",
               "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Tasks\\ScheduleTask.cs",
               "RelativeDocumentMoniker": "Backend\\Data\\Domain\\Tasks\\ScheduleTask.cs",
@@ -64,45 +413,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T15:35:16.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskStartup.cs",
-              "DocumentMoniker": "F:\\DoAn\\backend\\Backend\\Services\\ScheduleTasks\\TaskStartup.cs",
-              "RelativeDocumentMoniker": "Backend\\Services\\ScheduleTasks\\TaskStartup.cs",
-              "ToolTip": "F:\\DoAn\\backend\\Backend\\Services\\ScheduleTasks\\TaskStartup.cs",
-              "RelativeToolTip": "Backend\\Services\\ScheduleTasks\\TaskStartup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T15:33:37.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ITaskStartup.cs",
-              "DocumentMoniker": "F:\\DoAn\\backend\\Backend\\Services\\ScheduleTasks\\ITaskStartup.cs",
-              "RelativeDocumentMoniker": "Backend\\Services\\ScheduleTasks\\ITaskStartup.cs",
-              "ToolTip": "F:\\DoAn\\backend\\Backend\\Services\\ScheduleTasks\\ITaskStartup.cs",
-              "RelativeToolTip": "Backend\\Services\\ScheduleTasks\\ITaskStartup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T15:31:43.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IScheduleTask.cs",
-              "DocumentMoniker": "F:\\DoAn\\backend\\Backend\\Services\\ScheduleTasks\\IScheduleTask.cs",
-              "RelativeDocumentMoniker": "Backend\\Services\\ScheduleTasks\\IScheduleTask.cs",
-              "ToolTip": "F:\\DoAn\\backend\\Backend\\Services\\ScheduleTasks\\IScheduleTask.cs",
-              "RelativeToolTip": "Backend\\Services\\ScheduleTasks\\IScheduleTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T15:29:28.953Z",
-              "EditorCaption": ""
             }
           ]
         }

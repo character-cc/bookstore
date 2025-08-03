@@ -4,8 +4,5 @@ public interface ITaskStartup
 {
     Task InitializeAsync();
 
-
-    Task StartAsync();
-
-    Task StopAsync();
+    Task Start();
 }

@@ -25,6 +25,7 @@ using Backend.Services.Orders;
 using Backend.Services.Email;
 using Backend.Services.Stores;
 using Backend.Services.Shipping;
+using Backend.Services.ScheduleTasks;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -80,6 +81,7 @@ builder.Services.AddScoped<IStoreService, StoreService>();
 builder.Services.AddHttpClient<IShippingService, ShippingService>();
 builder.Services.Configure<ShippingOptions>(builder.Configuration.GetSection("Shipping"));
 builder.Services.AddTransient<IEmailSender, EmailSender>();
+builder.Services.AddSingleton<ITaskStartup, TaskStartup>();
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddAutoMapper(typeof(MappingProfile)); 
 builder.Services.AddFluentValidationAutoValidation();
@@ -99,6 +101,13 @@ var app = builder.Build();
 
 
 
+
+app.UseHttpsRedirection();     
+app.UseStaticFiles();          
+app.UseRouting();             
+app.UseAuthentication();      
+app.UseAuthorization();       
+app.MapControllers();  
 using (var scope = app.Services.CreateScope())
 {
     var runner = scope.ServiceProvider.GetRequiredService<IMigrationRunner>();
@@ -110,11 +119,9 @@ using (var scope = app.Services.CreateScope())
 {
         //await FakeDataSeeder.SeedAsync(app.Services);
     }
-}
-app.UseHttpsRedirection();     
-app.UseStaticFiles();          
-app.UseRouting();             
-app.UseAuthentication();      
-app.UseAuthorization();       
-app.MapControllers();        
+
+    var taskStartup = scope.ServiceProvider.GetRequiredService<ITaskStartup>();
+    await taskStartup.InitializeAsync();
+    await taskStartup.Start();
+}   
 app.Run();                     

@@ -117,3 +117,4 @@ F:\DoAn\backend\Backend\bin\Debug\net9.0\Backend.staticwebassets.runtime.json
 F:\DoAn\backend\Backend\bin\Debug\net9.0\Newtonsoft.Json.dll
 F:\DoAn\backend\Backend\obj\Debug\net9.0\Backend.RazorAssemblyInfo.cache
 F:\DoAn\backend\Backend\obj\Debug\net9.0\Backend.RazorAssemblyInfo.cs
+F:\DoAn\backend\Backend\obj\Debug\net9.0\Backend.sourcelink.json
